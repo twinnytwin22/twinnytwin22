@@ -1,62 +1,73 @@
-# 👋 Hey, I’m Randal
+# Randal Herndon
 
-I build systems that work — end to end.
+I build and operate digital systems that drive growth, scale responsibly, and hold up under real-world use.
 
-Not just code that runs, but platforms that scale, survive edge cases, and make sense to the people who rely on them. I sit at the intersection of **engineering, product, and growth**, translating ideas into durable, production-ready solutions.
-
----
-
-## 🧠 What I’m Known For
-
-- Turning ambiguous requirements into clear, executable systems  
-- Owning problems from architecture → implementation → iteration  
-- Bridging technical and non-technical teams without losing precision  
-- Designing for reliability, performance, and long-term maintainability  
-- Shipping — even when constraints are real and timelines are tight  
-
-I’m comfortable working across the stack, across teams, and across domains — from frontend UX decisions to backend infrastructure and data flows.
+My work lives at the intersection of **marketing technology, product, and engineering** — translating business goals into measurable, production-ready platforms. I’m most effective where strategy, data, and execution meet.
 
 ---
 
-## 🛠 How I Work
+## Selected Work
 
-- **Systems-first thinking** — I care about how parts interact, not just how they compile  
-- **Pragmatic over perfect** — shipped and improving beats theoretical elegance  
-- **Readable > clever** — future maintainers matter  
-- **Metrics-aware** — if it can’t be measured, it can’t be improved  
-- **Ownership mindset** — if it breaks, I fix it  
+A few places where ideas turned into working systems.  
+Each link represents ongoing thinking, iteration, and real-world use.
+
+- **RTMP Fallback and Video Clipper Web Application** — OPUS Clip like Video Clipper / Cloud RTMP Streaming Solution
+  https://relyy.app/
+
+- **Subport** — NextJS, full stack music library 
+  https://subport.app/music
+
+- **CRIB Network Booking App** — Booking web application for CRIB Network. 
+  https://booking.cribnetwork.io/book/b59a90cb-fce2-4274-a171-b56eea1a2807
+
+> I keep this list intentionally short. If it’s here, it’s because it reflects how I think and build.
 
 ---
 
-## 🧩 What You’ll See Here
+## What I Do
 
-This GitHub is a reflection of how I think and build:
-- Experiments that turn into foundations  
-- Tools built to solve real problems  
-- Code that values clarity and intent  
+- Architect and implement marketing and analytics systems end-to-end  
+- Translate stakeholder needs into clear technical solutions  
+- Optimize acquisition, conversion, and retention through data and experimentation  
+- Build maintainable platforms that support long-term growth  
+- Bridge technical and non-technical teams without losing clarity  
+
+I’m comfortable owning initiatives from initial concept through deployment, measurement, and iteration.
+
+---
+
+## How I Work
+
+- Systems-first thinking over isolated features  
+- Pragmatic execution with a bias toward shipping  
+- Clear, readable code over clever abstractions  
+- Metrics-driven decisions and continuous improvement  
+- Accountability for outcomes, not just implementation  
+
+---
+
+## What You’ll Find Here
+
+This GitHub reflects how I approach problems:
+- Practical tools built for real use cases  
+- Experiments that inform larger systems  
+- Code written for clarity, scale, and maintainability  
 - Iteration over time, not one-off demos  
 
-Some things start small. Some scale quietly. All of it is intentional.
+---
+
+## Current Focus
+
+- Marketing technology and analytics infrastructure  
+- Data-informed product and growth systems  
+- Scalable web platforms and integrations  
+- Improving how teams measure and act on performance  
 
 ---
 
-## 🚀 Current Focus
+## Perspective
 
-- Building resilient, modern web platforms  
-- Exploring real-time systems and media workflows  
-- Improving developer experience through better abstractions  
-- Designing software that supports creators, teams, and organizations  
+Good technology supports the business.  
+Great technology makes better decisions easier.
 
----
-
-## 🤝 Philosophy
-
-> Good software disappears into the workflow.  
-> Great software earns trust and keeps it.
-
-If you’re here to explore, learn, or collaborate — welcome.  
-If you’re here reviewing code — I hope it’s easy to follow.
-
----
-
-Thanks for stopping by.
+If you’re reviewing this code, my goal is that the intent is clear, the tradeoffs are reasonable, and the system makes sense.
