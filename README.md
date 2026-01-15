@@ -12,13 +12,13 @@ A few places where ideas turned into working systems.
 Each link represents ongoing thinking, iteration, and real-world use.
 
 - **RTMP Fallback and Video Clipper Web Application** — OPUS Clip like Video Clipper / Cloud RTMP Streaming Solution
-  https://relyy.app/
+  - https://relyy.app/
 
 - **Subport** — NextJS, full stack music library 
-  https://subport.app/music
+  - https://subport.app/music
 
 - **CRIB Network Booking App** — Booking web application for CRIB Network. 
-  https://booking.cribnetwork.io/book/b59a90cb-fce2-4274-a171-b56eea1a2807
+  - https://booking.cribnetwork.io/book/b59a90cb-fce2-4274-a171-b56eea1a2807
 
 > I keep this list intentionally short. If it’s here, it’s because it reflects how I think and build.
 
